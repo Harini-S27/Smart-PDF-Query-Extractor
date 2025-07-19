@@ -1,0 +1,1 @@
+# Smart-PDF-Query-Extractor
